@@ -21,7 +21,7 @@ You must use the printf function to display this message.
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-13T18:51:10.385Z  
+**Submitted:** 2026-11-13T18:51:20.606Z  
 
 ```c_cpp
 #include <stdio.h>
